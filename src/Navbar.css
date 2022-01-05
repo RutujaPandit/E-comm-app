@@ -1,0 +1,35 @@
+li{
+    
+    list-style:none;
+    /* text-decoration: none!important; */
+    font-size: 20px;
+    color:white;
+    
+}
+li:hover{
+    background-color: azure;
+    text-decoration: none!important;
+    transition: 0.2s;
+}
+.navbar{
+
+    display:flex;
+    background-color:aqua;
+    border-radius: 30px;
+}
+
+.navbar-element{
+    
+    padding: 10px;
+    margin  : 10px;
+}
+
+#logo{
+    margin:10px;
+    padding:10px;
+    color:black;
+}
+a{
+    text-decoration: none!important;
+    color:black;
+}
